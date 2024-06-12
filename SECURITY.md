@@ -4,3 +4,4 @@ We use https://g.co/vulnz for our intake and triage. For valid issues we will do
 GitHub (including using a GitHub Security Advisory when necessary).
 
 The Google Security Team will process your report within a day, and respond within a week (although it will depend on the severity of your report).
+https://www.atlassian.com/licensing/purchase-licensing#ECCNs-and-Eligible-License-Exceptions-for-Atlassian-Products
